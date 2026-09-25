@@ -1,5 +1,5 @@
 package edu.ncsu.monopoly;
-//actualizacion viernes 25 IS2 2
+//actualizacion viernes 25 IS2 3
 public abstract class Card {
 
     public static final int TYPE_CHANCE = 1;
